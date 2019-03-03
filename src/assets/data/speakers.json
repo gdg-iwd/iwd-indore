@@ -1,0 +1,75 @@
+[
+    {
+        "name":"Siddhant Agarwal",
+        "company": "Google",
+        "twitter":"https://twitter.com/sidagarwal04",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"sid.jpg"
+    },
+    {
+        "name":"Suraj Kumar",
+        "company": "NickelFox Studio",
+        "twitter":"https://twitter.com/surajsugga",
+        "linkedin":"https://www.linkedin.com/in/surajsuggasingh/",
+        "github":"",
+        "profileImage":"suraj.jpg"
+    },
+    {
+        "name":"Kamal Vaid",
+        "company": "Infosys",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"kamal.jpg"
+    },
+    {
+        "name":"Varsha Jaiswal",
+        "company": "IB Hubs",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"varsha.jpg"
+    },
+    {
+        "name":"Sonakshi Shukla",
+        "company": "WTM Lead",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"sonakshi.jpg"
+    },
+    {
+        "name":"Ishita Agnihotri",
+        "company": "WTM Lead",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"ishita.jpg"
+    },
+    {
+        "name":"Vrijraj Singh",
+        "company": "Qart Fashion",
+        "twitter":"https://twitter.com/vrijrajsingh",
+        "linkedin":"https://www.linkedin.com/in/vrijraj",
+        "github":"https://github.com/Vrijraj",
+        "profileImage":"vrij.png"
+    },
+    {
+        "name":"Shubhangi Gupta",
+        "company": "WTM Jalandhar",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
+    },
+    {
+        "name":"Abhishek Suman",
+        "company": "Infosys",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
+    }
+    
+]

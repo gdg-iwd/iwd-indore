@@ -1,0 +1,6 @@
+{
+  "projects": {
+  "default": "iwd-gdg-indore",
+    "staging": "iwd-jalandhar"
+  }
+}
