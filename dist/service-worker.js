@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/iwd/precache-manifest.83b1b936be0be2bed0f3bbc1cda7adf7.js"
+  "/iwd/precache-manifest.1039ac46f1c9edea8e82599961fc8354.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "iwd19-app"});
