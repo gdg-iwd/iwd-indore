@@ -74,7 +74,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 | Community Name | Web App Link | 
 | --- | --- | 
-| GDG Jalandhar | [View Now](https://iwd.gdgjalandhar.com) |
+| GDG Indore | [View Now](https://iwd.gdgindore.com) |
 
 
 
