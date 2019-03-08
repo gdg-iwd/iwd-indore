@@ -5,3 +5,8 @@
 .google-font{
     font-family: google-sans
 }
+@media (max-width: 600px) {
+    .mar-top-15 {
+        margin-top: 15px;
+    }
+}

@@ -4,12 +4,12 @@
     "navTitle":"IWD Indore",
     "registrationLink":"https://www.google.com/forms/about/",
     "chapterName":"GDG Indore",
-    "eventLogo":"https://www.womentechmakers.com/static/images/wtm-icon@2x.png",
-    "eventDes":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "aboutWTMProgram":"Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. In 2019, we’re organizing the fourth edition in Montreal as part of the special event The Women Techmakers Global Event Series Celebrating International Women’s Day (WTM IWD).",
+    "eventLogo":"WTM-logo.png",
+    "eventDes":"International Women's Day is celebrated by WomenTechmaker all over the world to celebrate women in technology. WTM creates visibility, community and resources for women by hosting events which includes technical as well as motivational and managerial sessions. These events are organized with a spirit to support each and every woman in your surrounding and lift them up as you climb your success ladder.",
+    "aboutWTMProgram":"Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. In 2019, we’re organizing the third edition in lndore as part of the special event The Women Techmakers Global Event Series Celebrating International Women’s Day (WTM IWD).",
     "chapterMeetupLink":"https://www.meetup.com/GDG-Indore",
     "eventMeetupLink" : "https://www.meetup.com/GDG-Indore/events/253165595/",
-    "eventDate" : "31st March",
+    "eventDate" : "7th April",
     "eventTime" : "09 am to 5.30 pm",
     "eventVenue" : "Venue Name, Indore",
     "email":"gdgindore@gmail.com",
@@ -34,7 +34,7 @@
     "stats":[
         {
             "name":"Sessions",
-            "des":"3 parallel tracks, dedicated to Android, Web and Cloud technologies",
+            "des":"4 sessions",
             "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
         },
         {
