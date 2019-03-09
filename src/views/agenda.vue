@@ -30,8 +30,8 @@
                 <v-tabs
                     v-model="active"
                     color="indigo"
-                    dark
-                    slider-color="yellow">
+                    dark>
+                   <!-- slider-color="yellow"-->
 
                     <v-tab ripple style="text-transform: capitalize;" >
                         Schedule
@@ -62,7 +62,7 @@
                         </v-card>
                     </v-tab-item>
 
-                    <v-tab ripple style="text-transform: capitalize;" >
+                   <!-- <v-tab ripple style="text-transform: capitalize;" >
                         Session
                     </v-tab>
                     <v-tab-item>
@@ -102,7 +102,7 @@
                                 </v-container>
                             </v-card-text>
                         </v-card>
-                    </v-tab-item>
+                    </v-tab-item>-->
                 </v-tabs>
             </v-flex>
 

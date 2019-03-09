@@ -8,5 +8,10 @@
         "name":"WomenTechmakers",
         "link":"https://www.womentechmakers.com/",
         "img":"wtm.png"
+    },
+    {
+        "name":"GitHub",
+        "link":"https://github.com/googledevelopergroups",
+        "img":"github-logo.jpg"
     }
 ]

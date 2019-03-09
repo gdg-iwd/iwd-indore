@@ -3,7 +3,7 @@
     <v-container fluid class="elevation-0" >
         <v-layout wrap align-center justify-center row fill-height class="pa-3">
             <v-flex xs12 md4>
-                <p class="google-font mb-0">Explore themes</p>
+                <!--<p class="google-font mb-0">Explore themes</p>-->
                 <h2 class="google-font mt-0" style="font-size:200%;color:#17ACB6">{{data.themeTitle}}</h2>
                 <p class="google-font mt-2" style="font-size:120%">{{data.aboutWTMProgram}}</p>
             </v-flex>
