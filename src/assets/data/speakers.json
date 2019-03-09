@@ -1,19 +1,19 @@
 [
     {
-        "name":"Siddhant Agarwal",
-        "company": "Google",
-        "twitter":"https://twitter.com/sidagarwal04",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"sid.jpg"
+        "name":"Merve Başak",
+        "company": "GDG/WTM Eskisehir",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/merve-ba%C5%9Fak-a32433137/",
+        "github":"https://github.com/mervebasak",
+        "profileImage":"merve.jpg"
     },
     {
-        "name":"Suraj Kumar",
-        "company": "NickelFox Studio",
-        "twitter":"https://twitter.com/surajsugga",
-        "linkedin":"https://www.linkedin.com/in/surajsuggasingh/",
+        "name":"Pranjal solanki",
+        "company": "The Gym Factory",
+        "twitter":"",
+        "linkedin":"https://www.LinkedIn.com/in/pranjal12solanki",
         "github":"",
-        "profileImage":"suraj.jpg"
+        "profileImage":"pranjal.png"
     },
     {
         "name":"Kamal Vaid",
@@ -57,7 +57,7 @@
     },
     {
         "name":"Shubhangi Gupta",
-        "company": "WTM Jalandhar",
+        "company": "WTM Indore",
         "twitter":"",
         "linkedin":"",
         "github":"",

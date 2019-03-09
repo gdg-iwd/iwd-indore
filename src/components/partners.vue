@@ -21,10 +21,10 @@
                                         xs4
                                         md3
                                         d-flex
-                                        class="pa-2 mr-2 white elevation-1"
+                                        class="pa-2 mr-2 white elevation-1 mar-top-15"
                                         style="border-radius:8px;border-color:#e0e0e0;border-width: 2px; border-style: solid;"
                                     >
-                                    <v-card flat tile class="d-flex" >
+                                    <v-card flat tile class="d-flex " >
                                         <a v-bind:href="itemp.link" target="_blank">
                                         <v-img
                                         :src="getImgUrl(itemp.img)"
@@ -70,10 +70,10 @@
                                         style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
                                     >
                                     <v-card flat tile class="d-flex" >
-                                        <a href="https://gdgjalandhar.com" target="_blank">
+                                        <a href="https:www.//gdgindore.com" target="_blank">
                                         <v-img
-                                            :src="require('../assets/img/partners/gdgjalandhar.png')"
-                                            :lazy-src="require('../assets/img/partners/gdgjalandhar.png')"
+                                            :src="require('../assets/img/partners/gdgindore.png')"
+                                            :lazy-src="require('../assets/img/partners/gdgindore.png')"
                                             aspect-ratio="2.9"
                                             class="white"
                                         >
@@ -89,6 +89,34 @@
                                         </v-img>
                                         </a>
                                     </v-card>
+                                    </v-flex>
+                                    <v-flex
+                                            xs4
+                                            md2
+                                            d-flex
+                                            class="pa-2 mr-2 white elevation-1"
+                                            style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
+                                    >
+                                        <v-card flat tile class="d-flex" >
+                                            <a href="https:www.//gdgindore.com" target="_blank">
+                                                <v-img
+                                                        :src="require('../assets/img/partners/gdgcindore.jpeg')"
+                                                        :lazy-src="require('../assets/img/partners/gdgcindore.jpeg')"
+                                                        aspect-ratio="2.9"
+                                                        class="white"
+                                                >
+                                                    <v-layout
+                                                            slot="placeholder"
+                                                            fill-height
+                                                            align-center
+                                                            justify-center
+                                                            ma-0
+                                                    >
+                                                        <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+                                                    </v-layout>
+                                                </v-img>
+                                            </a>
+                                        </v-card>
                                     </v-flex>
 
                                 </v-layout>

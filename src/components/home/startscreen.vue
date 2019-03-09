@@ -5,8 +5,8 @@
             <v-flex xs12 md7>
 
                 <v-img
-                    :src="data.eventLogo"
-                    :lazy-src="data.eventLogo"
+                    :src="require('@/assets/'+data.eventLogo)"
+                    :lazy-src="require('@/assets/'+data.eventLogo)"
                     width="5vh">
                     <v-layout
                         slot="placeholder"
@@ -31,7 +31,7 @@
                         {{hs.name}} &nbsp;
                     </span>
                 </p>
-                <v-btn :href="data.registrationLink" target="_blank" class="ma-0 google-font elevation-0" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Request for an Invitation</v-btn>
+                <!--<v-btn :href="data.registrationLink" target="_blank" class="ma-0 google-font elevation-0" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Request for an Invitation</v-btn>-->
                 &nbsp;
                 <v-btn :href="data.eventMeetupLink" target="_blank" round color="cyan google-font" style="text-transform: capitalize;border-radius:5px" outline  class="ml-0" dark>Meetup</v-btn>
             </v-flex>

@@ -26,11 +26,11 @@ export default new Router({
       name: 'home',
       component: Home
     },
-    {
+    /*{
       path: '/attending',
       name: 'attending',
       component: () => import('./views/attending.vue')
-    },
+    },*/
     {
       path: '/speakers',
       name: 'speakers',
