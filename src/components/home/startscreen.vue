@@ -7,7 +7,7 @@
                 <v-img
                     :src="require('@/assets/'+data.eventLogo)"
                     :lazy-src="require('@/assets/'+data.eventLogo)"
-                    width="5vh">
+                    width="14vh">
                     <v-layout
                         slot="placeholder"
                         fill-height
@@ -38,8 +38,8 @@
 
             <v-flex xs12 md5 class="hidden-sm-and-down pa-5">
                 <v-img
-                    :src="require('@/assets/img/home2.jpg')"
-                    :lazy-src="require('@/assets/img/home2.jpg')">
+                    :src="require('@/assets/img/home-final.jpg')"
+                    :lazy-src="require('@/assets/img/home-final.jpg')">
                     <v-layout
                         slot="placeholder"
                         fill-height
