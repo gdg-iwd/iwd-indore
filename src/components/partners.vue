@@ -70,7 +70,7 @@
                                         style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
                                     >
                                     <v-card flat tile class="d-flex" >
-                                        <a href="https:www.//gdgindore.com" target="_blank">
+                                        <a href="https://www.meetup.com/GoogleDeveloperGroupIndore/" target="_blank">
                                         <v-img
                                             :src="require('../assets/img/partners/gdgindore.png')"
                                             :lazy-src="require('../assets/img/partners/gdgindore.png')"
@@ -98,7 +98,7 @@
                                             style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
                                     >
                                         <v-card flat tile class="d-flex" >
-                                            <a href="https:www.//gdgindore.com" target="_blank">
+                                            <a href="https://www.meetup.com/Google-Cloud-Developer-Community-Indore/" target="_blank">
                                                 <v-img
                                                         :src="require('../assets/img/partners/gdgcindore.jpeg')"
                                                         :lazy-src="require('../assets/img/partners/gdgcindore.jpeg')"
