@@ -10,20 +10,20 @@
       class="hidden-md-and-up"
     >
       <v-flex xs12 class="pl-3 pt-5">
-        <v-img
-              :src="data.eventLogo"
-              :lazy-src="data.eventLogo"
-              width="5vh">
+          <v-img
+                  :src="require('@/assets/'+data.eventLogo)"
+                  :lazy-src="require('@/assets/'+data.eventLogo)"
+                  width="10vh" style="left:-16px">
               <v-layout
-                  slot="placeholder"
-                  fill-height
-                  align-center
-                  justify-center
-                  ma-0
+                      slot="placeholder"
+                      fill-height
+                      align-center
+                      justify-center
+                      ma-0
               >
                   <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
               </v-layout>
-        </v-img>
+          </v-img>
         <p class="google-font mt-2">{{ data.navTitle }}</p>
         
       </v-flex>
