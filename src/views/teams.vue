@@ -54,7 +54,7 @@
                                 
                                 </v-img>
                             </v-avatar>
-                            <p class="mt-3 mb-0 google-font" style="font-size:140%">{{item.name}}</p>
+                            <p class="mt-3 mb-0 google-font" style="font-size:140%;margin:0 5px">{{item.name}}</p>
                             <p class="mt-1 mb-0 google-font">{{item.designation}}</p>
 
                             <v-btn class="mt-0 mx-0 mb-0" icon v-if="(item.twitter).length>0" :href="item.twitter" target="_blank">
@@ -65,8 +65,11 @@
                                 <i class="fab fa-linkedin-in" style="color:#0077b5"></i>
                             </v-btn>
 
-                            <v-btn class="mt-0 mx-0 mb-0" icon :href="item.github" target="_blank">
+                            <v-btn class="mt-0 mx-0 mb-0" icon v-if="(item.github).length>0" :href="item.github" target="_blank">
                                 <i class="fab fa-github" style="color:#333"></i>
+                            </v-btn>
+                            <v-btn class="mt-0 mx-0 mb-0" icon v-if="(item.facebook).length>0" :href="item.facebook" target="_blank">
+                                <i class="fab fa-facebook-f" style="color:#4267b2"></i>
                             </v-btn>
                         </div>
                         </v-hover>

@@ -7,7 +7,7 @@
                 <v-img
                     :src="require('@/assets/'+data.eventLogo)"
                     :lazy-src="require('@/assets/'+data.eventLogo)"
-                    width="14vh">
+                    width="14vh" style="left:-17px">
                     <v-layout
                         slot="placeholder"
                         fill-height
@@ -27,10 +27,10 @@
 
                 <p class="google-font mb-0" style="font-size:120%;color:#757575">{{data.eventDate}} | {{data.eventTime}} | {{data.eventVenue}}</p>
                 <p class="google-font mt-1" style="font-size:120%;color:#757575">
-                    <span v-for="(hs,i) in data.hashTag" :key="i">
+                    <!--<span v-for="(hs,i) in data.hashTag" :key="i">
                         {{hs.name}} &nbsp;
-                    </span>
-                </p>
+                    </span>-->
+            </p>
                 <!--<v-btn :href="data.registrationLink" target="_blank" class="ma-0 google-font elevation-0" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Request for an Invitation</v-btn>-->
                 &nbsp;
                 <v-btn :href="data.eventMeetupLink" target="_blank" round color="cyan google-font" style="text-transform: capitalize;border-radius:5px" outline  class="ml-0" dark>Meetup</v-btn>
