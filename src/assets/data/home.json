@@ -6,7 +6,7 @@
     "chapterName":"GDG Indore",
     "eventLogo":"WTM-logo.png",
     "eventDes":"International Women's Day is celebrated by WomenTechmaker all over the world to celebrate women in technology. WTM creates visibility, community and resources for women by hosting events which includes technical as well as motivational and managerial sessions. These events are organized with a spirit to support each and every woman in your surrounding and lift them up as you climb your success ladder.",
-    "aboutWTMProgram":"Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. In 2019, we’re organizing the third edition in lndore as part of the special event The Women Techmakers Global Event Series Celebrating International Women’s Day (WTM IWD).",
+    "aboutWTMProgram":"Honouring this Women’s day, Women Techmakers - an initiative taken by Google, is back to Break the Taboos of Women not being technically sound and accentuating the brilliance of every successful women in technology. This year, we’re organising the third edition in Indore as a part of the special event of The Women Techmakers Global Event Series - IWD'19. So, all the technical ladies from Indore get ready to witness one of the most power packed event of 2019!",
     "chapterMeetupLink":"https://www.meetup.com/GDG-Indore",
     "eventMeetupLink" : "https://www.meetup.com/GDG-Indore/events/253165595/",
     "eventDate" : "7th April",
@@ -34,7 +34,7 @@
     "stats":[
         {
             "name":"Sessions",
-            "des":"4 sessions",
+            "des":"5 knowledgeable sessions, dedicated to Android, Web, Graphic designing and Quality Assurance.",
             "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "name":"Networking",
-            "des":"Work hard and enjoy IWD19 is the best place to meet new people",
+            "des":"Best place to meet technical people and learn something new..! Grow your network by interacting with them.",
             "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
         },
         {
