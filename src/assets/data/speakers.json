@@ -5,7 +5,8 @@
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/merve-ba%C5%9Fak-a32433137/",
         "github":"https://github.com/mervebasak",
-        "profileImage":"merve.jpg"
+        "profileImage":"merve.jpg",
+        "bio":"Mobile"
     },
     {
         "name":"Harshita Joshi",
@@ -13,55 +14,34 @@
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/harshita-joshi-652970b9",
         "github":"",
-        "profileImage":"harshita.jpeg"
+        "profileImage":"harshita.jpeg",
+        "bio" : "Automation Team Lead"
     },
     {
-        "name":"Varsha Jaiswal",
-        "company": "IB Hubs",
+        "name":"Asifa Rizvi",
+        "company": "Impetus Infotech Pvt. Ltd.",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"https://linkedIn.com/in/asifa-rizvi-5204426",
         "github":"",
-        "profileImage":"varsha.jpg"
+        "profileImage":"asifa.jpg",
+        "bio": "Lead UI Engineer"
     },
     {
-        "name":"Sonakshi Shukla",
-        "company": "WTM Lead",
+        "name":"Nupur Phatak",
+        "company": "Potomac Technologies, Pvt. Ltd.",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"https://www.linkedin.com/in/nupurp",
         "github":"",
-        "profileImage":"sonakshi.jpg"
+        "profileImage":"nupur.jpg",
+        "bio": "Resource Management"
     },
     {
-        "name":"Ishita Agnihotri",
-        "company": "WTM Lead",
+        "name":"Bushra Sagir",
+        "company": "Mobiliya",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"http://linkedin.com/in/bushra-sagir-91746793",
         "github":"",
-        "profileImage":"ishita.jpg"
-    },
-    {
-        "name":"Vrijraj Singh",
-        "company": "Qart Fashion",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"vrij.png"
-    },
-    {
-        "name":"Shubhangi Gupta",
-        "company": "WTM Indore",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":""
-    },
-    {
-        "name":"Abhishek Suman",
-        "company": "Infosys",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":""
+        "profileImage":"bushra.jpg",
+        "bio": "Mobile"
     }
-    
 ]

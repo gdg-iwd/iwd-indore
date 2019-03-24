@@ -45,13 +45,13 @@
         "profileImage":"tushar.jpg"
     },
     {
-        "name":"Rajat Gupta",
+        "name":"Mayank Jain",
         "designation":"Development",
-        "twitter":"https://twitter.com/rajat71194",
-        "linkedin":"https://www.linkedin.com/in/rajat-gupta-a22b5769",
+        "twitter":"",
+        "linkedin":"www.linkedin.com/in/mayank-jain-262635140",
         "github":"",
-        "facebook": "https://www.facebook.com/rajat.gupta.165",
-        "profileImage":"rajat.jpg"
+        "facebook": "https://www.facebook.com/mayank.jain.5030",
+        "profileImage":"mayank.jpg"
     },
     {
         "name":"Priyal Jain",
@@ -63,13 +63,32 @@
         "profileImage":"priyal.jpg"
     },
     {
-        "name":"Mayank Jain",
+        "name":"Rajat Gupta",
         "designation":"Development",
-        "twitter":"",
-        "linkedin":"www.linkedin.com/in/mayank-jain-262635140",
+        "twitter":"https://twitter.com/rajat71194",
+        "linkedin":"https://www.linkedin.com/in/rajat-gupta-a22b5769",
         "github":"",
-        "facebook": "https://www.facebook.com/mayank.jain.5030",
-        "profileImage":"mayank.jpg"
+        "facebook": "https://www.facebook.com/rajat.gupta.165",
+        "profileImage":"rajat.jpg"
+    },
+
+    {
+        "name":"Adeen Shukla",
+        "designation":"Development",
+        "twitter":"https://twitter.com/AdeenShukla",
+        "linkedin":"https://linkedin.com/in/adeen-s",
+        "github":"",
+        "facebook": "https://facebook.com/RealAdeenShukla",
+        "profileImage":"adeen.jpg"
+    },
+    {
+        "name":"Shachita Jain",
+        "designation":"Content Writer",
+        "twitter":"https://twitter.com/ShachitaJain",
+        "linkedin":"http://linkedin.com/in/shachita",
+        "github":"",
+        "facebook": "https://www.facebook.com/shachita.jain",
+        "profileImage":"shachita.jpg"
     }
    
 ]
