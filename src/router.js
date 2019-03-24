@@ -36,11 +36,11 @@ export default new Router({
       name: 'speakers',
       component: () => import('./views/speakers.vue')
     },
-    /* {
-       path: '/agenda',
-       name: 'agenda',
-       component: () => import('./views/agenda.vue')
-     },*/
+    {
+      path: '/agenda',
+      name: 'agenda',
+      component: () => import('./views/agenda.vue')
+    },
     {
       path: '/teams',
       name: 'teams',
@@ -48,7 +48,7 @@ export default new Router({
     },
 
   ],
-
+  
 })
 
 
