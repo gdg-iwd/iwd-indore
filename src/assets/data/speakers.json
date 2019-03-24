@@ -5,8 +5,7 @@
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/merve-ba%C5%9Fak-a32433137/",
         "github":"https://github.com/mervebasak",
-        "profileImage":"merve.jpg",
-        "bio":"Mobile"
+        "profileImage":"merve.jpg"
     },
     {
         "name":"Harshita Joshi",
@@ -14,34 +13,55 @@
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/harshita-joshi-652970b9",
         "github":"",
-        "profileImage":"harshita.jpeg",
-        "bio" : "Automation Team Lead"
+        "profileImage":"harshita.jpeg"
     },
     {
-        "name":"Asifa Rizvi",
-        "company": "Impetus Infotech Pvt. Ltd.",
+        "name":"Varsha Jaiswal",
+        "company": "IB Hubs",
         "twitter":"",
-        "linkedin":"https://linkedIn.com/in/asifa-rizvi-5204426",
+        "linkedin":"",
         "github":"",
-        "profileImage":"asifa.jpg",
-        "bio": "Lead UI Engineer"
+        "profileImage":"varsha.jpg"
     },
     {
-        "name":"Nupur Phatak",
-        "company": "Potomac Technologies, Pvt. Ltd.",
+        "name":"Sonakshi Shukla",
+        "company": "WTM Lead",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/nupurp",
+        "linkedin":"",
         "github":"",
-        "profileImage":"nupur.jpg",
-        "bio": "Resource Management"
+        "profileImage":"sonakshi.jpg"
     },
     {
-        "name":"Bushra Sagir",
-        "company": "Mobiliya",
+        "name":"Ishita Agnihotri",
+        "company": "WTM Lead",
         "twitter":"",
-        "linkedin":"http://linkedin.com/in/bushra-sagir-91746793",
+        "linkedin":"",
         "github":"",
-        "profileImage":"bushra.jpg",
-        "bio": "Mobile"
+        "profileImage":"ishita.jpg"
+    },
+    {
+        "name":"Vrijraj Singh",
+        "company": "Qart Fashion",
+        "twitter":"https://twitter.com/vrijrajsingh",
+        "linkedin":"https://www.linkedin.com/in/vrijraj",
+        "github":"https://github.com/Vrijraj",
+        "profileImage":"vrij.png"
+    },
+    {
+        "name":"Shubhangi Gupta",
+        "company": "WTM Indore",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
+    },
+    {
+        "name":"Abhishek Suman",
+        "company": "Infosys",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
     }
+    
 ]
