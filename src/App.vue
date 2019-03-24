@@ -34,6 +34,7 @@
         <v-list-tile
             v-for="item in items"
             :key="item.title"
+            @click.stop="drawer = !drawer"
             router :to="item.route"
         >
             <v-list-tile-action>
@@ -55,16 +56,17 @@
       fixed
       height="55px"
     >
-      <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer =!drawer"></v-toolbar-side-icon>
+      <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer = !drawer"></v-toolbar-side-icon>
       <v-toolbar-title class="ml-0 pl-1 mr-1">
         <span class="google-font">{{data.navTitle}}</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn class="mx-1 hidden-sm-and-down google-font"
-        flat v-for="(item, i) in items"
-        :key="i"
-        router
-        style="text-transform: capitalize;"
+             @click.stop="drawer = !drawer"
+        flat v-for="(item, i) in items" 
+        :key="i" 
+        router  
+        style="text-transform: capitalize;"    
         :to="item.route">
         {{item.title}}
       </v-btn>
@@ -98,7 +100,7 @@ export default {
       items: [
             { title: 'Home', icon: 'dashboard', route:"/home" },
             /*{ title: 'Attending', icon: 'rounded_corner', route:"/attending" },*/
-            { title: 'Agenda', icon: 'toc', route:"/agenda" },
+           /* { title: 'Agenda', icon: 'toc', route:"/agenda" },*/
             { title: 'Speakers', icon: 'group', route:"/speakers" },
             { title: 'Teams', icon: 'person', route:"/teams" }
         ],

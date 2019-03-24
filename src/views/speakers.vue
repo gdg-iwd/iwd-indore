@@ -29,11 +29,11 @@
 
             <v-flex xs12 md10 lg10>     
                 <v-layout wrap row fill-height class="pa-0">
-                    <v-flex xs6 sm3 md2 lg2 v-for="(item,i) in speakersData" :key="i" class="text-xs-center" style="text-align:center">
+                    <v-flex xs6 sm3 md2 lg2 v-for="(item,i) in speakersData" :key="i" class="text-xs-center speakers-wrapper" style="text-align:center">
                         <div 
                             class="text-xs-center ma-1 py-5 my-0" 
                             style="text-align:center;border: 1px solid #e0e0e0;min-height:250px;border-radius:7px">
-                            <v-avatar size="100">
+                            <v-avatar size="140">
                                 <v-img
                                 :src="getImgUrl(item.profileImage)"
                                 :lazy-src="getImgUrl(item.profileImage)">
@@ -50,8 +50,8 @@
                                 
                                 </v-img>
                             </v-avatar>
-                            <p class="mt-3 mb-0 google-font" style="font-size:120%">{{item.name}}</p>
-                            <p class="mt-1 mb-0 google-font">{{item.company}}</p>
+                            <p class="mt-3 mb-0 google-font speaker-name-text" style="font-size:120%">{{item.name}}</p>
+                            <p class="mt-1 mb-0 google-font speaker-company-text">{{item.company}}</p>
 
                             <v-btn class="mt-0 mx-0" icon v-if="(item.twitter).length>0" :href="item.twitter" target="_blank">
                                 <i class="fab fa-twitter" style="color:#1da1f2"></i>
@@ -64,6 +64,11 @@
                             <v-btn class="mt-0 mx-0" icon v-if="(item.github).length>0" :href="item.github" target="_blank">
                                 <i class="fab fa-github" style="color:#333"></i>
                             </v-btn>
+                            <div>
+                                <div class="badge">
+                                    {{item.bio}}
+                                </div>
+                            </div>
                         </div>
                     </v-flex>
                 </v-layout>

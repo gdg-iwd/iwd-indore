@@ -55,7 +55,7 @@
             </v-flex>
 
             <v-flex xs12 md12 class="mt-2">
-                <p class="google-font mt-2" style="font-size:110%">Template Creator</p>
+                <p class="google-font mt-2" style="font-size:110%">Community partners <b>GDG</b> and <b>GCDC</b></p>
 
                 <v-layout class="transparent" >
                     <v-flex xs12 sm10 class="elevation-0 transparent">

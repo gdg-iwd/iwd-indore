@@ -30,18 +30,17 @@
 
             <v-flex xs12 md10 lg10 class="mt-3">     
                 <v-layout wrap row fill-height class="pa-0">
-                    <v-flex xs6 sm4 md2 lg2 v-for="(item,i) in speakersData" :key="i" class="text-xs-center" >
+                    <v-flex xs6 sm4 md2 lg2 v-for="(item,i) in speakersData" :key="i" class="text-xs-center team-wrapper" >
                         <v-hover>
                         <div 
                             slot-scope="{ hover }"
                             :class="`elevation-${hover ? 0 : 0}`" 
                             class="text-xs-center ma-1 py-5 my-0" 
                             style="text-align:center;border: 1px solid #f5f6f7;min-height:250px;border-radius:7px">
-                            <v-avatar size="110">
+                            <v-avatar size="140">
                                 <v-img
                                 :src="getImgUrl(item.profileImage)"
                                 :lazy-src="getImgUrl(item.profileImage)">
-
                                     <v-layout
                                         slot="placeholder"
                                         fill-height
@@ -54,7 +53,7 @@
                                 
                                 </v-img>
                             </v-avatar>
-                            <p class="mt-3 mb-0 google-font" style="font-size:140%;margin:0 5px">{{item.name}}</p>
+                            <p class="mt-3 mb-0 google-font team-name-text" style="font-size:140%;margin:0 5px">{{item.name}}</p>
                             <p class="mt-1 mb-0 google-font">{{item.designation}}</p>
 
                             <v-btn class="mt-0 mx-0 mb-0" icon v-if="(item.twitter).length>0" :href="item.twitter" target="_blank">
