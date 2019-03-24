@@ -25,7 +25,7 @@
               </v-layout>
           </v-img>
         <p class="google-font mt-2">{{ data.navTitle }}</p>
-
+        
       </v-flex>
 
 
@@ -35,7 +35,7 @@
             v-for="item in items"
             :key="item.title"
             router :to="item.route"
-        >
+        >   
             <v-list-tile-action>
                 <v-icon>{{ item.icon }}</v-icon>
             </v-list-tile-action>
@@ -44,7 +44,7 @@
                 <v-list-tile-title>{{ item.title }}</v-list-tile-title>
             </v-list-tile-content>
         </v-list-tile>
-      </v-list>
+      </v-list>  
     </v-navigation-drawer>
 
     <v-toolbar
@@ -56,15 +56,15 @@
       height="55px"
     >
       <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer =!drawer"></v-toolbar-side-icon>
-      <v-toolbar-title class="ml-0 pl-1 mr-1">
+      <v-toolbar-title class="ml-0 pl-1 mr-1">   
         <span class="google-font">{{data.navTitle}}</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-btn class="mx-1 hidden-sm-and-down google-font"
-        flat v-for="(item, i) in items"
-        :key="i"
-        router
-        style="text-transform: capitalize;"
+      <v-btn class="mx-1 hidden-sm-and-down google-font" 
+        flat v-for="(item, i) in items" 
+        :key="i" 
+        router  
+        style="text-transform: capitalize;"    
         :to="item.route">
         {{item.title}}
       </v-btn>
@@ -105,6 +105,6 @@ export default {
     }),
     methods:{
     }
-
+    
 }
 </script>
