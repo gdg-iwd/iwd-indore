@@ -26,11 +26,13 @@
                 <p class="mt-2 google-font" style="font-size:120%;color:#424242">{{data.eventDes}}</p>
 
                 <p class="google-font mb-0" style="font-size:120%;color:#757575">
-                    {{data.eventDate}} | {{data.eventTime}} <br /> {{data.eventVenue}}
+                    {{data.eventDate}} | {{data.eventTime}} <br />
+                    {{data.eventVenue}}
                     <v-btn class="mt-0 mx-0 mb-0" icon :href="data.mapUrl" target="_blank">
                         <i class="fas fa-map-marker-alt"></i>
                     </v-btn>
                 </p>
+               <!-- <p class="google-font mb-0" style="font-size:120%;color:#757575">{{data.eventVenue}}</p>-->
                 <p class="google-font mt-1" style="font-size:120%;color:#757575">
                     <span v-for="(hs,i) in data.hashTag" :key="i">
                         {{hs.name}} &nbsp;
@@ -75,11 +77,11 @@
             }
         },
         mounted() {
-            console.log("Reached here")
+            console.log("Reached here");
 
-            let myEventScript = document.createElement('script')
-            myEventScript.setAttribute('src', 'https://adeen.me/js/iwd.js')
-            document.head.appendChild(myEventScript)
+            let myEventScript = document.createElement('script');
+            myEventScript.setAttribute('src', 'https://adeen.me/js/iwd.js');
+            document.head.appendChild(myEventScript);
         }
     }
 </script>
