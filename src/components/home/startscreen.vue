@@ -1,7 +1,7 @@
 <template>
     <v-container fluid class="px-4 py-5"  >
         <v-layout wrap align-center justify-center row fill-height>
-            
+
             <v-flex xs12 md7>
 
                 <v-img
@@ -18,7 +18,7 @@
                         <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
                     </v-layout>
                 </v-img>
-                
+
                 <h1 class="google-font mt-0" style="color:#757575">{{data.eventName}}</h1>
 
                 <p class="google-font mb-0" style="font-size:250%;color:#17ACB6;font-weight:800">{{data.themeTitle}}</p>
@@ -34,7 +34,7 @@
                         {{hs.name}} &nbsp;
                     </span>
                 </p>
-                <button id="modal59284544669" target="_blank" color="#1a73e8" class="ma-0 google-font elevation-0" style="text-transform: capitalize;border-radius: 5px;color: white;background-color: #4e8df5; padding: 7px;">Buy Tickets</button>
+                <button id="modal59287007034" target="_blank" color="#1a73e8" class="ma-0 google-font elevation-0" style="text-transform: capitalize;border-radius: 5px;color: white;background-color: #4e8df5; padding: 7px;">Buy Tickets</button>
                 &nbsp;
                 <v-btn :href="data.eventMeetupLink" target="_blank" round color="cyan google-font" style="text-transform: capitalize;border-radius:5px" outline  class="ml-0" dark>Meetup</v-btn>
             </v-flex>
@@ -55,7 +55,7 @@
                 </v-img>
             </v-flex>
 
-            
+
         </v-layout>
     </v-container>
 </template>
