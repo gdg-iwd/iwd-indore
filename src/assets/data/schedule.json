@@ -1,51 +1,83 @@
 [
     {
-        "startTime":"09.00 AM",
+        "startTime":"9.30 AM  to 10:00 AM",
         "topic":"Registration",
         "tag":"",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
     },
     {
-        "startTime":"10.00 AM",
-        "topic":"Welcome Keynote",
-        "tag":"",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"10:00 AM  to  10:20 AM",
+        "topic":"Welcome Note",
+        "tag":"WTM and IWD",
+        "des":"The commencement of the event will be done with a warm welcome note by our WTM leads who will be briefing us about what Women TechMakers aim for and how this event is going to help every women flourish in the field of technology.",
+        "speakerName":"Tanishka Porwal and Ranu Jaiswal",
+        "speakerHref":"teams"
     },
     {
-        "startTime":"10.15 AM",
-        "topic":"Session 1",
+        "startTime":"10:30 AM to 11:00 AM",
+        "topic":"Modern techniques of Quality Assurance",
+        "tag":"QA",
+        "des":"Harshita Joshi, Automation Team Lead, will be speaking about  various techniques that are being used during the quality assurance, it’s advantages and the importance of QA at every stage.",
+        "speakerName":"Harshita Joshi",
+        "speakerHref":"speakers"
+    },
+    {
+        "startTime":"11.10 AM to 11:40 AM",
+        "topic":"Actions on Google",
         "tag":"Mobile",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "des":"Merve Başak, Our overseas presenter and a computer engineering student at Anadolu University is going to enlighten us about designing actions on google, using Google Assistant on our devices and will be there to guide you through this Google Assistant adventure.",
+        "speakerName":"Merve Besak",
+        "speakerHref":"speakers"
     },
     {
-        "startTime":"11.00 AM",
-        "topic":"Session 2",
+        "startTime":"11.45 AM to 12:00 PM",
+        "topic":"AI and Industry 4.0 Application Overview",
+        "tag":"AI",
+        "des":"Dr. Manojkumar Deshpande,Director of  Prestige,PIEMR, believes that engineers must develop a  habit of long lasting  learnings and with that thought he will be conducting a session on AI and Industry 4.0 Applications and will brief us about how Artificial Intelligence is helping people to get extraordinary results in industries.",
+        "speakerName":"Dr. Manoj Kumar Deshpande",
+        "speakerHref":"javascript:void(0)"
+    },
+    {
+        "startTime":"12:00 PM to 12.30 PM",
+        "topic":"Modern web development and practices",
         "tag":"Web",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "des":"It's all about how user-friendly and interactive your site is. So, Asifa Rizvi,Senior Lead UI Engineer in Impetus InfoTech, is going to brief us about the importance of Modern Web developments and the recommended practices to be deployed in this field.",
+        "speakerName":"Asifa Rizvi",
+        "speakerHref":"speakers"
     },
     {
-        "startTime":"12.00 PM",
-        "topic":"Session 3",
-        "tag":"Web",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"12.30 PM to 1.30 PM",
+        "topic":"Networking and Food",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
     },
     {
-        "startTime":"01.00 PM",
-        "topic":"Session 4",
-        "tag":"Cloud",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"1:30 PM to 2:00 PM",
+        "topic":"Demo of smart jackets",
+        "tag":"Mobile",
+        "des":"Bushra Sagir,iOS Developer at Mobiliya, will be conducting a knowledgeable session on Smart Jackets, technology used behind it, a brief introduction to 'Jacquard Project' and the most enthralling part will be the live demo of Smart Jackets.",
+        "speakerName":"Bushra Sagir",
+        "speakerHref":"speakers"
     },
     {
-        "startTime":"03.00 PM",
-        "topic":"Session 5",
-        "tag":"Cloud",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"2:00 PM to 2.30 PM",
+        "topic":"Lift as you climb",
+        "tag":"Management",
+        "des":"Illustrating the theme of IWD'19, Nupur Pathak is going to conduct a motivational session on how you can lift others as you climb your ladder of success.",
+        "speakerName":"Nupur Phatak",
+        "speakerHref":"speakers"
     },
     {
-        "startTime":"04.00 PM",
-        "topic":"Session 6",
-        "tag":"Web",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"2.30 PM to 3:00 PM",
+        "topic":"Kahoot",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
     }
 
 ]

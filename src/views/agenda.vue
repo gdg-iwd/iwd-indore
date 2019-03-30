@@ -26,14 +26,13 @@
             </v-flex>
 
         <!-- grey lighten-5 -->
-            <v-flex xs12 md9 sm10 lg10 class="pa-0 elevation-2">
+            <v-flex xs12 md9 sm10 lg10 class="pa-0 elevation-2 agenda-block-wrapper">
                 <v-tabs
-                    v-model="active"
                     color="indigo"
                     dark>
                    <!-- slider-color="yellow"-->
 
-                    <v-tab ripple style="text-transform: capitalize;" >
+                    <!--<v-tab ripple style="text-transform: capitalize;" >
                         Schedule
                     </v-tab>
 
@@ -60,9 +59,9 @@
                                 </v-layout>
                             </v-card-text>
                         </v-card>
-                    </v-tab-item>
+                    </v-tab-item>-->
 
-                   <!-- <v-tab ripple style="text-transform: capitalize;" >
+                    <v-tab ripple style="text-transform: capitalize;" class="agenda-font-size">
                         Session
                     </v-tab>
                     <v-tab-item>
@@ -80,19 +79,25 @@
                                             :color="showColor(item.tag)"
                                             small 
                                         >
-                                            <v-layout pt-3>
-                                                <v-flex xs3>
-                                                    <strong class="google-font">{{item.startTime}}</strong>
+                                            <v-layout pt-3 class="agenda-wrapper">
+                                                <v-flex xs3 class="agenda-flex-wrapper">
+                                                    <strong class="google-font agenda-font-size">{{item.startTime}}</strong>
                                                 </v-flex>
-                                                <v-flex xs9>
-                                                    <strong class="google-font">{{item.topic}}</strong>
-                                                    <div class="caption">
+                                                <v-flex xs9 class="agenda-flex-wrapper">
+                                                    <strong class="google-font agenda-font-size">{{item.topic}}</strong>
+                                                    <div class="caption agenda-caption">
                                                         <v-chip v-if="item.tag.length>0" label small class="ma-0" outline :color="showColor(item.tag)">
                                                             <v-icon small left>{{showIcon(item.tag)}}</v-icon>
                                                             {{item.tag}}
                                                         </v-chip>
                                                     </div>
                                                     <div class="google-font">{{item.des}}</div>
+                                                    <div class="agenda-user-block">
+                                                        <v-btn class="mt-0 mx-0 mb-0" icon v-if="(item.speakerHref).length>0" :href="item.speakerHref" target="_blank">
+                                                            <i class="fa fa-user" style="color:#0eacc0"></i>
+                                                        </v-btn>
+                                                        <a class = "google-font agenda-font-size" :href="item.speakerHref" target="_self">{{item.speakerName}}</a>
+                                                    </div>
                                                 </v-flex>
                                             </v-layout>
                                         </v-timeline-item>
@@ -102,7 +107,7 @@
                                 </v-container>
                             </v-card-text>
                         </v-card>
-                    </v-tab-item>-->
+                    </v-tab-item>
                 </v-tabs>
             </v-flex>
 
@@ -135,22 +140,35 @@ export default {
             if(tag == "Web"){
                 return "red"
             }
-            else if(tag == "Mobile"){
+            else if(tag == "Mobile" || tag == "QA"){
                 return "green"
             }
             else if(tag == "Cloud"){
                 return "orange"
+            }
+            else if(tag === "WTM and IWD") {
+                return "blue"
+            } else if(tag == "AI") {
+                return "red"
+            } else if(tag == "Management" || tag == "Network") {
+                return "#043d9b"
             }
         },
         showIcon(tag){
             if(tag == "Web"){
                 return "code"
             }
-            else if(tag == "Mobile"){
+            else if(tag == "Mobile" || tag == "QA"){
                 return "stay_primary_portrait"
             }
             else if(tag == "Cloud"){
                 return "cloud"
+            } else if(tag == "Management" || tag == "AI") {
+                return "computer"
+            } else if(tag == "WTM and IWD") {
+                return "group"
+            } else if(tag == "Network") {
+                return "router"
             }
         }
     },
