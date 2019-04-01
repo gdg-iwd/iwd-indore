@@ -57,11 +57,11 @@
       <v-btn
               color="white"
               flat
-              value="Teams"
+              value="Team"
               router
-              to="/teams"
+              to="/team"
       >
-        <span>Teams</span>
+        <span>Team</span>
         <v-icon>person</v-icon>
       </v-btn>
 
