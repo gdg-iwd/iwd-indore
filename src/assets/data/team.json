@@ -98,6 +98,33 @@
         "github":"",
         "facebook": "https://www.facebook.com/sonia.goplani.7",
         "profileImage":"sonia.jpg"
+    },
+    {
+        "name":"Devesh Lashkari",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/devesh_lashkari",
+        "linkedin":"https://www.linkedin.com/in/devesh-lashkari/",
+        "github":"",
+        "facebook": "https://www.facebook.com/devesh.lashkari.1",
+        "profileImage":"devesh.jpg"
+    },
+    {
+        "name":"Akshay Malviya",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/malviya_akshay",
+        "linkedin":"https://www.linkedin.com/in/akshaymalviya",
+        "github":"",
+        "facebook": "https://www.facebook.com/akshay.malviya1788",
+        "profileImage":"akshay.jpg"
+    },
+    {
+        "name":"Aayush Agrawal",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/malviya_akshay",
+        "linkedin":"https://www.linkedin.com/in/aayushagrawal101/",
+        "github":"",
+        "facebook": "https://www.facebook.com/aayush.agrawal.984",
+        "profileImage":"ayush.jpg"
     }
    
 ]

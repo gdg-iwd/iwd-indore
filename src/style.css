@@ -26,13 +26,13 @@
     white-space: nowrap;
     margin:0 10px !important;
 }
-.speakers-wrapper {
-    max-width: none !important;
-    flex-basis: 17.666667% !important;
-    margin-right: 15px !important;
-    margin-bottom: 15px !important;
-}
-.team-wrapper {
+/*.speakers-wrapper {*/
+    /*max-width: none !important;*/
+    /*flex-basis: 17.666667% !important;*/
+    /*margin-right: 15px !important;*/
+    /*margin-bottom: 15px !important;*/
+/*}*/
+.team-wrapper, .speakers-wrapper {
     max-width:none !important;
     flex-basis: 22.666667% !important;
     margin-right: 15px !important;
