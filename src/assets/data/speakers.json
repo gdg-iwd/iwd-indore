@@ -9,6 +9,15 @@
         "bio":"Mobile"
     },
     {
+        "name":"Bushra Sagir",
+        "company": "Mobiliya",
+        "twitter":"",
+        "linkedin":"http://linkedin.com/in/bushra-sagir-91746793",
+        "github":"",
+        "profileImage":"bushra.jpg",
+        "bio": "Mobile"
+    },
+    {
         "name":"Harshita Joshi",
         "company": "Worldpay",
         "twitter":"",
@@ -36,12 +45,12 @@
         "bio": "HR Management"
     },
     {
-        "name":"Bushra Sagir",
-        "company": "Mobiliya",
+        "name":"Dr. Manojkumar Deshpande",
+        "company": "Prestige PIEMR",
         "twitter":"",
-        "linkedin":"http://linkedin.com/in/bushra-sagir-91746793",
+        "linkedin":"https://www.linkedin.com/in/manojkumar-deshpande",
         "github":"",
-        "profileImage":"bushra.jpg",
-        "bio": "Mobile"
+        "profileImage":"manoj-kumar.jpg",
+        "bio": "Artificial Intelligence"
     }
 ]
