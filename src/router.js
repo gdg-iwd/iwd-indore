@@ -42,8 +42,8 @@ export default new Router({
        component: () => import('./views/agenda.vue')
      },
     {
-      path: '/teams',
-      name: 'teams',
+      path: '/team',
+      name: 'team',
       component: () => import('./views/teams.vue')
     },
 

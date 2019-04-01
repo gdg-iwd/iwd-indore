@@ -13,7 +13,7 @@
         "tag":"WTM and IWD",
         "des":"The commencement of the event will be done with a warm welcome note by our WTM leads who will be briefing us about what Women TechMakers aim for and how this event is going to help every women flourish in the field of technology.",
         "speakerName":"Tanishka Porwal and Ranu Jaiswal",
-        "speakerHref":"teams"
+        "speakerHref":"team"
     },
     {
         "startTime":"10:30 AM to 11:00 AM",
@@ -48,8 +48,16 @@
         "speakerHref":"speakers"
     },
     {
-        "startTime":"12.30 PM to 1.30 PM",
-        "topic":"Networking and Food",
+        "startTime":"12.30 PM to 1:00 PM",
+        "topic":"Networking and Fun Activity",
+        "tag":"Networking and Fun",
+        "des":"",
+        "speakerName":"RJ Anjali ( MY FM )",
+        "speakerHref":"https://www.facebook.com/MyrjAnjali/"
+    },
+    {
+        "startTime":"1:00 PM to 1:30 PM",
+        "topic":"Lunch",
         "tag":"",
         "des":"",
         "speakerName":"",

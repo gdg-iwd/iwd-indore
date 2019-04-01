@@ -150,7 +150,7 @@ export default {
                 return "blue"
             } else if(tag == "AI") {
                 return "red"
-            } else if(tag == "Management" || tag == "Network") {
+            } else if(tag == "Management" || tag == "Networking and Fun") {
                 return "#043d9b"
             }
         },
@@ -167,8 +167,8 @@ export default {
                 return "computer"
             } else if(tag == "WTM and IWD") {
                 return "group"
-            } else if(tag == "Network") {
-                return "router"
+            } else if(tag == "Networking and Fun") {
+                return "local_activity"
             }
         }
     },
