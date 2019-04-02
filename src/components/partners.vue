@@ -137,20 +137,21 @@
                                             xs4
                                             md2
                                             d-flex
-                                            class="pa-2 mr-2 white elevation-1"
+                                            justify-center
+                                            class="mr-2 white elevation-1"
                                             style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
                                     >
-                                        <v-card flat tile class="d-flex" >
+                                        <v-card flat tile class="d-flex">
                                             <a href="https://www.meetup.com/Google-Cloud-Developer-Community-Indore/" target="_blank">
                                                 <v-img
                                                         :src="require('../assets/img/partners/myfm-new.png')"
                                                         :lazy-src="require('../assets/img/partners/MYFM.png')"
-                                                        aspect-ratio="2.9"
+                                                        aspect-ratio="2.34"
+                                                        contain
                                                         class="white"
                                                 >
                                                     <v-layout
                                                             slot="placeholder"
-                                                            fill-height
                                                             align-center
                                                             justify-center
                                                             ma-0
