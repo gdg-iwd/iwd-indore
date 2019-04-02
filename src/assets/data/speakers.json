@@ -9,15 +9,6 @@
         "bio":"Mobile"
     },
     {
-        "name":"Bushra Sagir",
-        "company": "Mobiliya",
-        "twitter":"",
-        "linkedin":"http://linkedin.com/in/bushra-sagir-91746793",
-        "github":"",
-        "profileImage":"bushra.jpg",
-        "bio": "Mobile"
-    },
-    {
         "name":"Harshita Joshi",
         "company": "Worldpay",
         "twitter":"",
@@ -43,6 +34,15 @@
         "github":"",
         "profileImage":"nupur.jpg",
         "bio": "HR Management"
+    },
+     {
+        "name":"Bushra Sagir",
+        "company": "Mobiliya",
+        "twitter":"",
+        "linkedin":"http://linkedin.com/in/bushra-sagir-91746793",
+        "github":"",
+        "profileImage":"bushra.jpg",
+        "bio": "Mobile"
     },
     {
         "name":"Dr. Manojkumar Deshpande",
