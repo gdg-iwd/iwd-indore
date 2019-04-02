@@ -142,10 +142,10 @@
                                             style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
                                     >
                                         <v-card flat tile class="d-flex">
-                                            <a href="https://www.meetup.com/Google-Cloud-Developer-Community-Indore/" target="_blank">
+                                            <a href="https://www.facebook.com/94.3MYFM/" target="_blank">
                                                 <v-img
                                                         :src="require('../assets/img/partners/myfm-new.png')"
-                                                        :lazy-src="require('../assets/img/partners/MYFM.png')"
+                                                        :lazy-src="require('../assets/img/partners/myfm-new.png')"
                                                         aspect-ratio="2.34"
                                                         contain
                                                         class="white"
