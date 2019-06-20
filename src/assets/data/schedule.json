@@ -1,0 +1,74 @@
+[
+    {
+        "startTime":"10.30 AM  to 10:45 AM",
+        "topic":"Google I/O recap",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
+    },
+    {
+        "startTime":"10.45 AM  to 11:30 AM",
+        "topic":"Introduction to TensorFlow",
+        "tag":"TensorFlow",
+        "des":"Sandeep will provide a short overview of TensorFlow and how it is impacting Machine Learning, an introduction to its APIs, new features, product direction, and resources to get started.Sandeep will also present other core and add-on projects that are part of the TensorFlow ecosystem.",
+        "speakerName":"Sandeep Gupta",
+        "speakerHref":"https://www.linkedin.com/in/sandeep-gupta-a71a343/"
+    },
+    {
+        "startTime":"11:30 AM  to  1:15 PM",
+        "topic":"Codelabs on Tensor Flow",
+        "tag":"TensorFlow",
+        "des":"",
+        "speakerName":"Sandeep Gupta",
+        "speakerHref":"https://www.linkedin.com/in/sandeep-gupta-a71a343/"
+    },
+    {
+        "startTime":"1.15 PM to 1:45 PM",
+        "topic":"Lunch",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
+    },
+    {
+        "startTime":"1.45 PM to 2:30 PM",
+        "topic":"Introduction to Kotlin",
+        "tag":"Kotlin",
+        "des":"Yash will be explaining the basics of Kotlin along with its practical implementation.",
+        "speakerName":"Pradhan Yash Sharma",
+        "speakerHref":"https://www.linkedin.com/in/pradhanyashsharma/"
+    },
+    {
+        "startTime":"2:30 PM to 3.00 PM",
+        "topic":"Closing Note & Networking",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
+    },
+    {
+        "startTime":"3:00 PM to 9:00 AM",
+        "topic":"Hackathon",
+        "tag":"Hackathon",
+        "des":"This Hackathon will be 18 hours long and will be based on Kotlin! Every participant will be guided and mentored by the experienced developers in this field.",
+        "speakerName":"",
+        "speakerHref":""
+    },
+    {
+        "startTime":"9:00 PM to 9:30 PM",
+        "topic":"Dinner",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
+    },
+    {
+        "startTime":"8:30 AM to 9:00 AM",
+        "topic":"Networking over breakfast",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
+    }
+]

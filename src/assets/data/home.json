@@ -1,0 +1,62 @@
+{
+    "eventName":"I/O Extended 2019",
+    "themeTitle":"Kotlin Everywhere",
+    "navTitle":"I/O'19",
+    "registrationLink":"https://www.eventbrite.com/e/google-io-extended-19-tickets-63531359005",
+    "chapterName":"GDG Indore",
+    "eventLogo":"gdg_logoweb.png",
+    "eventDes":"Every year, I/O brings all the developers from around the globe for talks, hands-on learning with Google experts, and for the very first glance at Google’s latest developer products. Extended events help regional developers to take part in the I/O experience in their hometown.",
+    "aboutWTMProgram":"This I/O season, embrace the power of Kotlin through hands-on sessions followed by 18 hours long hackathon. If you are new to Tensorflow or Kotlin and want to experience the power of a cross-platform, statically typed, general-purpose programming language, or want to dive deeper into machine learning, then you are at the right place.",
+    "chapterMeetupLink":"https://www.meetup.com/GDG-Indore",
+    "eventMeetupLink" : "https://www.meetup.com/GDGIndore/events/261171783/",
+    "eventDate" : "29th-30th June",
+    "eventVenue" : "EngineerBabu, Vijaynagar Indore",
+    "email":"gdgindore@gmail.com",
+    "mapUrl":"https://www.google.com/maps/place/EngineerBabu/@22.7643115,75.8849394,17z/data=!3m1!4b1!4m5!3m4!1s0x3962fd447b4de707:0x24093ad8d03871ae!8m2!3d22.7643066!4d75.8871281",
+    "followLinks":{
+        "facebook":"https://www.facebook.com/GDGIndore/",
+        "twitter":"https://twitter.com/gdgindore"
+    },
+    "hashTag" : [
+        {
+            "name" : "#GDGIndore"
+        },
+        {
+            "name" : "#WTMIndore"
+        },
+        {
+            "name" : "#GCDCIndore"
+        },
+        {
+            "name" : "#GDG"
+        },
+        {
+            "name" : "#WTM"
+        },
+        {
+            "name" : "#GCDC"
+        }
+    ],
+    "stats":[
+        {
+            "name":"Sessions",
+            "des":"Knowledgeable sessions, dedicated to Kotlin and TensorFlow.",
+            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+        },
+        {
+            "name":"Showcases",
+            "des":"Demo zone with the latest of Google tech: Actions by Women in tech all in one place",
+            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+        },
+        {
+            "name":"Networking",
+            "des":"Best place to meet technical people and learn something new..! Grow your network by interacting with them.",
+            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+        },
+        {
+            "name":"Workshop",
+            "des":"2 workshops to get your hands dirty and create a working prototype right during the conference",
+            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+        }
+    ]
+}

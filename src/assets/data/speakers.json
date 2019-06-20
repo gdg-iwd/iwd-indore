@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Sandeep Gupta",
+        "company": "Google",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/sandeep-gupta-a71a343/",
+        "github":"",
+        "profileImage":"sandeep.jpg",
+        "bio":"TensorFlow"
+    },
+    {
+        "name":"Pradhan Yash Sharma",
+        "company": "Yash Technologies",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/pradhanyashsharma/",
+        "github":"",
+        "profileImage":"yash.jpg",
+        "bio" : "Kotlin"
+    }
+]
