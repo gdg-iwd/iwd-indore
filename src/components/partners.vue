@@ -162,7 +162,7 @@
                                             </a>
                                         </v-card>
                                     </v-flex>
-                                    <v-flex
+                                    <!-- <v-flex
                                             xs4
                                             md2
                                             d-flex
@@ -171,7 +171,7 @@
                                             style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
                                     >
                                 
-                                    </v-flex>
+                                    </v-flex> -->
                                 </v-layout>
                             </v-container>
                         </v-card>
