@@ -23,7 +23,7 @@
 
                 <v-flex xs12 md8 lg8 class="">
                     <span class="pa-2 google-font" style="border-radius:8px;background-color:#FFEBEE;color:#B71C1C;font-size:150%">Team</span>
-                    <p class="google-font mt-2" style="color:#37474F;font-size:150%">Our goal as a team is to see every single woman flourish in whatever technology they wish.</p>
+                    <p class="google-font mt-2" style="color:#37474F;font-size:150%">Our goal as a team is to see everyone flourish in whatever technology they wish.</p>
                     <p class="mt-0 google-font subheading">
                         We know that <b>when we support each other, incredible things happen,</b> so our major objective is to encourage,elevate and support each and every developer and boost their energy by keeping their Josh High!!
                         We have this dedicated core team, competent enough, to take the responsibility for the accomplishment of this event.
