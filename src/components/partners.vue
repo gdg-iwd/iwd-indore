@@ -162,7 +162,7 @@
                                             </a>
                                         </v-card>
                                     </v-flex>
-                                    <!-- <v-flex
+                                    <v-flex
                                             xs4
                                             md2
                                             d-flex
@@ -170,8 +170,28 @@
                                             class="mr-2 white elevation-1"
                                             style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
                                     >
-                                
-                                    </v-flex> -->
+                                        <v-card flat tile class="d-flex">
+                                            <a href="https://www.jetbrains.com/" target="_blank">
+                                                <v-img
+                                                        :src="require('../assets/img/partners/jetlogo.jpg')"
+                                                        :lazy-src="require('../assets/img/partners/jetlogo.jpg')"
+                                                        aspect-ratio="2.34"
+                                                        contain
+                                                        class="white"
+                                                >
+                                                    <v-layout
+                                                            slot="placeholder"
+                                                            align-center
+                                                            justify-center
+                                                            ma-0
+                                                    >
+                                                        <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+                                                    </v-layout>
+                                                </v-img>
+                                            </a>
+                                        </v-card>
+                        
+                                    </v-flex> 
                                 </v-layout>
                             </v-container>
                         </v-card>

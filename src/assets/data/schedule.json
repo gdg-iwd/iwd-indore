@@ -56,8 +56,32 @@
         "speakerHref":""
     },
     {
+        "startTime":"3:00 PM to 3:45 PM",
+        "topic":"Team Selection [Kotlin MCQ]",
+        "tag":"",
+        "des":"All the participants will have to take the kotlin MCQ quiz, on the basis of which, their further participation in the hackathon will be decided.",
+        "speakerName":"",
+        "speakerHref":""
+    },
+    {
+        "startTime":"3:45 PM to 4:45 PM",
+        "topic":"Design Sprint",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
+    },
+    {
         "startTime":"9:00 PM to 9:30 PM",
         "topic":"Dinner",
+        "tag":"",
+        "des":"",
+        "speakerName":"",
+        "speakerHref":""
+    },
+    {
+        "startTime":"1:00 AM to 1:30 AM",
+        "topic":"Break",
         "tag":"",
         "des":"",
         "speakerName":"",
