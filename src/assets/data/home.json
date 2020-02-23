@@ -1,56 +1,54 @@
 {
-    "eventName":"International Women's Day 2019",
-    "themeTitle":"Lift as you Climb",
-    "navTitle":"IWD Indore",
-    "registrationLink":"https://www.google.com/forms/about/",
-    "chapterName":"GDG Indore",
-    "eventLogo":"WTM-logo.png",
-    "eventDes":"International Women's Day is celebrated by WomenTechmaker all over the world to celebrate women in technology. WTM creates visibility, community and resources for women by hosting events which includes technical as well as motivational and managerial sessions. These events are organized with a spirit to support each and every woman in your surrounding and lift them up as you climb your success ladder.",
-    "aboutWTMProgram":"Honouring this Women’s day, Women Techmakers - an initiative taken by Google, is back to Break the Taboos of Women not being technically sound and accentuating the brilliance of every successful women in technology. This year, we’re organising the third edition in Indore as a part of the special event of The Women Techmakers Global Event Series - IWD'19. So, all the technical ladies from Indore get ready to witness one of the most power packed event of 2019!",
-    "chapterMeetupLink":"https://www.meetup.com/GDG-Indore",
-    "eventMeetupLink" : "https://www.meetup.com/GDG-Indore/events/253165595/",
-    "eventDate" : "7th April",
-    "eventTime" : "10 am to 3 pm",
-    "eventVenue" : "Auditorium, Prestige Institute of Engineering Management and Research, Indore",
-    "email":"gdgindore@gmail.com",
-    "followLinks":{
-        "facebook":"https://www.facebook.com/GDGIndore/",
-        "twitter":"https://twitter.com/gdgindore"
+    "eventName": "International Women's Day 2020",
+    "themeTitle": "Together We Rise",
+    "navTitle": "IWD Indore",
+    "registrationLink": "https://www.google.com/forms/about/",
+    "chapterName": "GDG Indore",
+    "eventLogo": "WTM-logo.png",
+    "eventDes": "International Women's Day is celebrated by WomenTechmaker all over the world to celebrate women in technology. WTM creates visibility, community and resources for women by hosting events which includes technical as well as motivational and managerial sessions.  Women Techmakers believe that we must come together to make this technical world evolve more and better. The greatest treasure is the ability to share and grow from our universal connection..",
+    "aboutWTMProgram": "Honouring this Women’s day, Women Techmakers - an initiative taken by Google, is back to Break the Taboos of Women not being technically sound and accentuating the brilliance of every successful women in technology. This year, we’re organising the third edition in Indore as a part of the special event of The Women Techmakers Global Event Series - IWD'19. So, all the technical ladies from Indore get ready to witness one of the most power packed event of 2019!",
+    "chapterMeetupLink": "https://www.meetup.com/GDG-Indore",
+    "eventMeetupLink": "https://www.meetup.com/GDG-Indore/events/253165595/",
+    "eventDate": "29th March",
+    "eventTime": "10 am to 3 pm",
+    "eventVenue": "Coming Soon",
+    "email": "gdgindore@gmail.com",
+    "followLinks": {
+        "facebook": "https://www.facebook.com/GDGIndore/",
+        "twitter": "https://twitter.com/gdgindore"
     },
-    "hashTag" : [
-        {
-            "name" : "#GDGIndore"
+    "hashTag": [{
+            "name": "#GDGIndore"
         },
         {
-            "name" : "#WTMIndore"
+            "name": "#WTMIndore"
         },
         {
-            "name" : "#GDG"
+            "name": "#GDG"
         },
         {
-            "name" : "#WTM"
+            "name": "#WTM"
         }
     ],
-    "stats":[
-        {
-            "name":"Sessions",
-            "des":"5 knowledgeable sessions, dedicated to Android, Web, Graphic designing and Quality Assurance.",
-            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+    "stats": [{
+            "name": "Sessions",
+            "des": "5 knowledgeable sessions, dedicated to Android, Web, Graphic designing and Quality Assurance.",
+            "longDes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
         },
         {
-            "name":"Showcases",
-            "des":"Demo zone with the latest of Google tech: Actions by Women in tech all in one place",
-            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+            "name": "Showcases",
+            "des": "Demo zone with the latest of Google tech: Actions by Women in tech all in one place",
+            "longDes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
         },
         {
-            "name":"Networking",
-            "des":"Best place to meet technical people and learn something new..! Grow your network by interacting with them.",
-            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+            "name": "Networking",
+            "des": "Best place to meet technical people and learn something new..! Grow your network by interacting with them.",
+            "longDes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
         },
         {
-            "name":"Workshop",
-            "des":"2 workshops to get your hands dirty and create a working prototype right during the conference",
-            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+            "name": "Workshop",
+            "des": "2 workshops to get your hands dirty and create a working prototype right during the conference",
+            "longDes": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
         }
     ]
 }
