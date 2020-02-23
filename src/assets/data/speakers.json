@@ -15,7 +15,7 @@
         "linkedin":"https://www.linkedin.com/in/harshita-joshi-652970b9",
         "github":"",
         "profileImage":"harshita.jpeg",
-        "bio" : "Automation Team Lead"
+        "bio" : "QA Lead"
     },
     {
         "name":"Asifa Rizvi",
@@ -24,7 +24,7 @@
         "linkedin":"https://linkedIn.com/in/asifa-rizvi-5204426",
         "github":"",
         "profileImage":"asifa.jpg",
-        "bio": "Lead UI Engineer"
+        "bio": "UI Lead"
     },
     {
         "name":"Nupur Phatak",
@@ -33,9 +33,18 @@
         "linkedin":"https://www.linkedin.com/in/nupurp",
         "github":"",
         "profileImage":"nupur.jpg",
-        "bio": "Resource Management"
+        "bio": "HR Management"
     },
-    {
+     {
+        "name":"RJ Anjali",
+        "company": "RJ at 94.3 MY FM",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/anjul-shukla-a19954107",
+        "github":"",
+        "profileImage":"RJ-Anjali.jpg",
+        "bio": "RJ"
+    },
+     {
         "name":"Bushra Sagir",
         "company": "Mobiliya",
         "twitter":"",
@@ -43,5 +52,14 @@
         "github":"",
         "profileImage":"bushra.jpg",
         "bio": "Mobile"
+    },
+    {
+        "name":"Dr. Manojkumar Deshpande",
+        "company": "Prestige PIEMR",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/manojkumar-deshpande",
+        "github":"",
+        "profileImage":"manoj-kumar.jpg",
+        "bio": "Artificial Intelligence"
     }
 ]

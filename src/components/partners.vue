@@ -8,7 +8,6 @@
             </v-flex>
 
             <v-flex xs12 md12 class="mt-2">
-                <p class="google-font mt-2" style="font-size:110%">General Creator</p>
 
 
                 <v-layout class="transparent">
@@ -55,7 +54,7 @@
             </v-flex>
 
             <v-flex xs12 md12 class="mt-2">
-                <p class="google-font mt-2" style="font-size:110%">Community partners <b>GDG</b> and <b>GCDC</b></p>
+                <p class="google-font mt-2" style="font-size:110%">Community partners</p>
 
                 <v-layout class="transparent" >
                     <v-flex xs12 sm10 class="elevation-0 transparent">
@@ -126,6 +125,80 @@
                 </v-layout>
 
             </v-flex>
+            <v-flex xs12 md12 class="mt-2">
+                <p class="google-font mt-2" style="font-size:110%">Media partner</p>
+
+                <v-layout class="transparent" >
+                    <v-flex xs12 sm10 class="elevation-0 transparent">
+                        <v-card class="elevation-0 pa-0 transparent">
+                            <v-container grid-list-sm fluid class="pa-0">
+                                <v-layout row wrap class="ma-1">
+                                    <v-flex
+                                            xs4
+                                            md2
+                                            d-flex
+                                            justify-center
+                                            class="mr-2 white elevation-1"
+                                            style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
+                                    >
+                                        <v-card flat tile class="d-flex">
+                                            <a href="https://www.facebook.com/94.3MYFM/" target="_blank">
+                                                <v-img
+                                                        :src="require('../assets/img/partners/myfm-new.png')"
+                                                        :lazy-src="require('../assets/img/partners/myfm-new.png')"
+                                                        aspect-ratio="2.34"
+                                                        contain
+                                                        class="white"
+                                                >
+                                                    <v-layout
+                                                            slot="placeholder"
+                                                            align-center
+                                                            justify-center
+                                                            ma-0
+                                                    >
+                                                        <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+                                                    </v-layout>
+                                                </v-img>
+                                            </a>
+                                        </v-card>
+                                    </v-flex>
+                                    <v-flex
+                                            xs4
+                                            md2
+                                            d-flex
+                                            justify-center
+                                            class="mr-2 white elevation-1"
+                                            style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
+                                    >
+                                        <v-card flat tile class="d-flex">
+                                            <a href="https://www.facebook.com/94.3MYFM/" target="_blank">
+                                                <v-img
+                                                        :src="require('../assets/img/partners/photographer.png')"
+                                                        :lazy-src="require('../assets/img/partners/photographer.png')"
+                                                        aspect-ratio="2.34"
+                                                        contain
+                                                        class="white"
+                                                >
+                                                    <v-layout
+                                                            slot="placeholder"
+                                                            align-center
+                                                            justify-center
+                                                            ma-0
+                                                    >
+                                                        <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
+                                                    </v-layout>
+                                                </v-img>
+                                            </a>
+                                        </v-card>
+                                    </v-flex>
+                                </v-layout>
+                            </v-container>
+                        </v-card>
+                    </v-flex>
+                </v-layout>
+
+            </v-flex>
+
         </v-layout>
     </v-container>
 </template>

@@ -10,7 +10,7 @@
 
             </v-flex>
             <v-layout wrap row>
-                <v-flex xs6 sm3 md2 lg2 v-for="item in speakersData.slice(0, 4)" :key="item.name" class="text-xs-center pa-2 " style="text-align:center">
+                <v-flex xs6 sm3 md2 lg2 v-for="item in speakersData.slice(0, 4)" :key="item.name" class="text-xs-center pa-2 home-speaker-width" style="text-align:center">
                     <v-avatar size="110">
                         <v-img
                                 :src="getImgUrl(item.profileImage)"
