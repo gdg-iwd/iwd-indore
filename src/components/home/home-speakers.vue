@@ -29,7 +29,7 @@
                         </v-img>
                     </v-avatar>
                     <p class="mt-3 mb-0 google-font speaker-name-text" style="font-size:140%">{{item.name}}</p>
-                    <p class="mt-1 mb-0 google-font">{{item.company}}</p>
+                    <p class="mt-1 mb-0 google-font bio-text">{{item.company}}</p>
 
                     <v-btn class="mt-0 mx-0" icon v-if="(item.twitter).length>0" :href="item.twitter" target="_blank">
                         <i class="fab fa-twitter" style="color:#1da1f2"></i>

@@ -77,7 +77,7 @@
         bottomNav: 'recent',
         items: [
           { title: 'Home', icon: 'dashboard', route:"/home" },
-          { title: 'Agenda', icon: 'rounded_corner', route:"/agenda" },
+          // { title: 'Agenda', icon: 'rounded_corner', route:"/agenda" },
           { title: 'Sessions', icon: 'toc', route:"/sessions" },
           { title: 'Speakers', icon: 'group', route:"/speakers" }
         ],

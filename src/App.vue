@@ -100,7 +100,7 @@
             items: [
                 { title: 'Home', icon: 'dashboard', route:"/home" },
                 /*{ title: 'Attending', icon: 'rounded_corner', route:"/attending" },*/
-                 { title: 'Agenda', icon: 'toc', route:"/agenda" },
+                //  { title: 'Agenda', icon: 'toc', route:"/agenda" },
                 { title: 'Speakers', icon: 'group', route:"/speakers" },
                 { title: 'Team', icon: 'person', route:"/team" }
             ],
