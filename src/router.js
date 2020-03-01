@@ -5,50 +5,49 @@ import Home from './views/Home.vue'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',
-  base: process.env.BASE_URL,
-  scrollBehavior() {
-    return { x: 0, y: 0 };
-  },
-  routes: [
-    {
-      path: '*',
-      name: 'home',
-      component: Home
+    mode: 'history',
+    base: process.env.BASE_URL,
+    scrollBehavior() {
+        return { x: 0, y: 0 };
     },
-    {
-      path: '/',
-      name: 'home',
-      component: Home
-    },
-    {
-      path: '/home',
-      name: 'home',
-      component: Home
-    },
-    /*{
-      path: '/attending',
-      name: 'attending',
-      component: () => import('./views/attending.vue')
-    },*/
-    {
-      path: '/speakers',
-      name: 'speakers',
-      component: () => import('./views/speakers.vue')
-    },
-     {
-       path: '/agenda',
-       name: 'agenda',
-       component: () => import('./views/agenda.vue')
-     },
-    {
-      path: '/team',
-      name: 'team',
-      component: () => import('./views/teams.vue')
-    },
+    routes: [{
+            path: '*',
+            name: 'home',
+            component: Home
+        },
+        {
+            path: '/',
+            name: 'home',
+            component: Home
+        },
+        {
+            path: '/home',
+            name: 'home',
+            component: Home
+        },
+        /*{
+          path: '/attending',
+          name: 'attending',
+          component: () => import('./views/attending.vue')
+        },*/
+        {
+            path: '/speakers',
+            name: 'speakers',
+            component: () =>
+                import ('./views/speakers.vue')
+        },
+        //  {
+        //    path: '/agenda',
+        //    name: 'agenda',
+        //    component: () => import('./views/agenda.vue')
+        //  },
+        {
+            path: '/team',
+            name: 'team',
+            component: () =>
+                import ('./views/teams.vue')
+        },
 
-  ],
+    ],
 
 })
-
-

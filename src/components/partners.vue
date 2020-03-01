@@ -125,7 +125,7 @@
                 </v-layout>
 
             </v-flex>
-            <v-flex xs12 md12 class="mt-2">
+            <!-- <v-flex xs12 md12 class="mt-2">
                 <p class="google-font mt-2" style="font-size:110%">Media partner</p>
 
                 <v-layout class="transparent" >
@@ -197,7 +197,7 @@
                     </v-flex>
                 </v-layout>
 
-            </v-flex>
+            </v-flex> -->
 
         </v-layout>
     </v-container>

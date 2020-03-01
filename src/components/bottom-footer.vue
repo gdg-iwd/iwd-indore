@@ -32,7 +32,7 @@
         <v-icon>rounded_corner</v-icon>
       </v-btn>-->
 
-      <v-btn
+      <!-- <v-btn
         color="white"
         flat
         value="Agenda"
@@ -41,7 +41,7 @@
       >
         <span>Agenda</span>
         <v-icon>toc</v-icon>
-      </v-btn>
+      </v-btn> -->
 
       <v-btn
               color="white"
@@ -77,7 +77,7 @@
         bottomNav: 'recent',
         items: [
           { title: 'Home', icon: 'dashboard', route:"/home" },
-          { title: 'Agenda', icon: 'rounded_corner', route:"/agenda" },
+          // { title: 'Agenda', icon: 'rounded_corner', route:"/agenda" },
           { title: 'Sessions', icon: 'toc', route:"/sessions" },
           { title: 'Speakers', icon: 'group', route:"/speakers" }
         ],
