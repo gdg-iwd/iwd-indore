@@ -1,17 +1,11 @@
-[
-    {
-        "name":"GDG",
-        "link":"https://developers.google.com/groups",
-        "img":"gdg.png"
+[{
+        "name": "GDG",
+        "link": "https://developers.google.com/groups",
+        "img": "gdg.png"
     },
     {
-        "name":"WomenTechmakers",
-        "link":"https://www.womentechmakers.com/",
-        "img":"wtm.png"
-    },
-    {
-        "name":"GitHub",
-        "link":"https://education.github.com",
-        "img":"github-logo.jpg"
+        "name": "WomenTechmakers",
+        "link": "https://www.womentechmakers.com/",
+        "img": "wtm.png"
     }
 ]
