@@ -56,6 +56,7 @@
     },
     created(){
       this.show = true
+      // fdf
     }
   }
 </script>
