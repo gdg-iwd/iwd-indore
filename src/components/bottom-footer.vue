@@ -32,7 +32,7 @@
         <v-icon>rounded_corner</v-icon>
       </v-btn>-->
 
-      <v-btn
+      <!-- <v-btn
         color="white"
         flat
         value="Agenda"
@@ -41,7 +41,7 @@
       >
         <span>Agenda</span>
         <v-icon>toc</v-icon>
-      </v-btn>
+      </v-btn> -->
 
       <v-btn
               color="white"
